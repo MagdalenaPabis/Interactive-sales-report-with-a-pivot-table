@@ -11,3 +11,17 @@ In addition, for this project, I also wanted to practice working with the Englis
 
  
 <img width="1868" height="1000" alt="plik źródłowy" src="https://github.com/user-attachments/assets/db2f55f6-fad5-4dd1-8e62-b45314477a4c" />
+
+
+Project objective – analyze sales over time, identify the top 5 stores by sales, and perform a Pareto analysis of sales value by warehouse.
+
+1.	The data preparation process.
+
+I copy the data from the source file into a new Excel file. There are 7,992 rows and 16 columns with the following names: numer zamówienia, kanał sprzedaży, magazyn, data zamówienia, data wysyłki, data dostawy, zespół sprzedażowy, region, ID klienta, ID sklepu, nazwa produktu, sztuki, zniżka, cena sztuki, koszt sztuki, sprzedaż.
+
+Then I translate the Polish names into English and enter them.
+
+
+<img width="945" height="496" alt="image" src="https://github.com/user-attachments/assets/6581ed9c-5815-49f2-8bf0-078f5b43cc5c" />
+
+
